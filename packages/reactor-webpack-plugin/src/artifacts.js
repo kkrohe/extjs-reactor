@@ -74,7 +74,6 @@ export const buildXML = function({ compress }) {
                     ext.js
                 and
                 scss
-                    +skipWatch
                     -appName=App
                     -imageSearchPath=resources
                     -themeName=triton
